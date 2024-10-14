@@ -123,7 +123,7 @@ dependencies:
   fluttertoast: ^8.2.8
   # yandex_maps_mapkit_lite: ^4.7.2-beta6
   envied: ^0.5.4+1
-  flutter_sticky_header: ^0.6.5
+  flutter_sticky_header: ^0.7.0
   schedule_exporter_repository:
     path: packages/schedule_exporter_repository
   storyly_flutter:
