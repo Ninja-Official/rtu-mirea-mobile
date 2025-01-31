@@ -96,7 +96,7 @@ dependencies:
   discourse_api_client:
     path: packages/discourse_api_client
   logger: ^2.0.2+1
-  flutter_markdown: ^0.6.20+1
+  flutter_markdown: ^0.7.0
   open_filex: ^4.4.0
   flutter_cache_manager: ^3.3.1
   bot_toast: ^4.1.3
