@@ -13,7 +13,7 @@ dependencies:
   shimmer: ^3.0.0
   flutter_svg: ^2.0.5
   hugeicons: ^0.0.7
-  extended_image: ^8.1.0
+  extended_image: ^9.0.0
   cached_network_image: ^3.2.0
   open_filex: ^4.4.0
   flutter_platform_widgets: ^7.0.1
