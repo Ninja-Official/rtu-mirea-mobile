@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   traefik:
-    image: traefik:v3.1
+    image: traefik:v3.3
     command:
       - --accesslog=true
       - --log.level=INFO
